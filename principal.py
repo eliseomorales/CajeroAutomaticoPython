@@ -1,7 +1,7 @@
 import datetime
 import sys
 import ProcesoCajero as proceso
-
+#Clase principal 
 datetime_object = datetime.datetime.now()
 print(datetime_object)
 cadena1 = "Ingresa el PIN: "
